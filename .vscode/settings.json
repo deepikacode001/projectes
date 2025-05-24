@@ -1,0 +1,8 @@
+{
+    "mdb.presetConnections": [
+        {
+            "name": "Nextnjs-db Connection",
+            "connectionString": "mongodb+srv://deepikasingh:deepika22@cluster0.ffuor01.mongodb.net/"
+        }
+    ]
+}
